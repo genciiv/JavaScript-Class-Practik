@@ -16,3 +16,4 @@
 - [Part_14 String Methods](https://github.com/genciiv/JavaScript-Class-Practik/tree/main/JavaScript%20Class%20Practik/Part_14%20String%20Methods)
 - [Part_15 If Statement](https://github.com/genciiv/JavaScript-Class-Practik/tree/main/JavaScript%20Class%20Practik/Part_15%20If%20Statement)
 - [Part_16 Checked Property](https://github.com/genciiv/JavaScript-Class-Practik/tree/main/JavaScript%20Class%20Practik/Part_16%20Checked%20Property)
+- [Part_17 AND vs OR](https://github.com/genciiv/JavaScript-Class-Practik/tree/main/JavaScript%20Class%20Practik/Part_17%20AND%20vs%20OR)
